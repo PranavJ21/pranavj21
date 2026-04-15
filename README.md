@@ -16,7 +16,7 @@ CS undergraduate exploring machine learning for real-world and scientific applic
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/pranavj21) · [Topcoder](https://www.topcoder.com/members/411038)
+[LinkedIn](https://linkedin.com/in/pranavj21)
 
 ---
 
