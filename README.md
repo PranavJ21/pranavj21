@@ -6,11 +6,11 @@ CS undergraduate exploring machine learning for real-world and scientific applic
 
 ### About
 
-- 🔭 **Currently working on:** ML for gravitational lensing (dark matter detection)
-- 🌱 **Learning:** PyTorch, deep learning, and ML system design
-- 🤝 **Looking for help with:** Scaling ML models and production workflows (MLOps)
-- 📫 **Email:** pranavjoshi2107@gmail.com
-- 📄 **Resume:** [View on Google Docs](https://docs.google.com/document/d/1SU4m7s0b-usepPMS26YoU5xgdK8Dxa9F)
+-  **Currently working on:** ML for gravitational lensing (dark matter detection)
+-  **Learning:** PyTorch, deep learning, and ML system design
+-  **Looking for help with:** Scaling ML models and production workflows (MLOps)
+-  **Email:** pranavjoshi2107@gmail.com
+-  **Resume:** [View on Google Docs](https://docs.google.com/document/d/1SU4m7s0b-usepPMS26YoU5xgdK8Dxa9F)
 
 ---
 
